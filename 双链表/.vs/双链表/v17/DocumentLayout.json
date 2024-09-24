@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82EAD5DE-DE5C-488F-AE5C-463A77AB8565}|\u53CC\u94FE\u8868.vcxproj|E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\DulList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82EAD5DE-DE5C-488F-AE5C-463A77AB8565}|\u53CC\u94FE\u8868.vcxproj|solutionrelative:DulList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EAD5DE-DE5C-488F-AE5C-463A77AB8565}|\u53CC\u94FE\u8868.vcxproj|E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82EAD5DE-DE5C-488F-AE5C-463A77AB8565}|\u53CC\u94FE\u8868.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DulList.hpp",
+              "DocumentMoniker": "E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\DulList.hpp",
+              "RelativeDocumentMoniker": "DulList.hpp",
+              "ToolTip": "E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\DulList.hpp",
+              "RelativeToolTip": "DulList.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T07:57:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\cpp code\\\u6570\u636E\u7ED3\u6784\\\u53CC\u94FE\u8868\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T07:56:41.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
